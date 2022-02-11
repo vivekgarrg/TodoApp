@@ -1,0 +1,52 @@
+
+
+.heading{
+    color: red;
+}
+.input-area{
+    box-sizing: border-box;
+    background-color: rebeccapurple;
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 10px 5px 5px gray;
+}
+.input-area h4{
+margin-top: -20px;
+color: white;
+margin-bottom: 40px;
+font-size: large;
+}
+.input-area input{
+    width: 400px;
+    height: 20px;
+    border-color: black;
+    margin-bottom: 30px;
+}
+.input-area button{
+    color: white;
+    background-color: green;
+    padding: 5px;
+    border-color: white;
+}
+
+
+.task{
+    box-sizing: border-box;
+    background-color: red;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 10px 5px 5px gray;
+}
+.task p{
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+    margin: 30px;
+}
+.task button{
+    color: white;
+    background-color: gray;
+    border-color: wheat;
+    padding: 5px;
+}
